@@ -1,1 +1,1 @@
-This is a simple Spring Boot project for car rental companies to add, view, delete, update make, model and car. 
+This is a simple Spring Boot project that does operations such as adding, viewing, deleting and updating the brands, models and cars of car rental companies.
